@@ -90,7 +90,7 @@ class InstaParse:
 
 
 
-login={"login": "kurillasss","password":"kurilka123"}
+login={"login": "Your_log","password":"Your_pass"}
 loader = instaloader.Instaloader()
 try:
     loader.load_session_from_file(login["login"])
